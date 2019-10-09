@@ -1,0 +1,15 @@
+#all {position:relative; max-width: 900px; max-height: 750px; margin: 0 auto; display: table} 
+
+img {position: relative; max-width: 200px; max-height: 250px; align-items: center} 
+
+.first {position: relative; float: left; margin: 0 auto; width: 30%; max-width: 30%; height: 600px; max-height: 600px; text-align: center}
+
+.second {background-color: yellow; position: relative; float: left; margin: 0 auto; width: 30%; max-width: 30%; height: 600px; max-height: 600px; }
+
+.third {position: relative; float: left; margin: 0 auto; width: 30%; max-width: 30%; height: 600px; max-height: 600px; text-align: center}
+
+h1 {font-family: monospace; margin-top: 40px; margin-bottom: 40px}
+
+h2 {font-family: monospace; text-align: center; margin: 25px}
+
+h3 {text-align: center}

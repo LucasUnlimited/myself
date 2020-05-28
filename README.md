@@ -1,4 +1,3 @@
-# myself
-My experience on code written with code!
-Need to adjust the 3 columns layout, because when I'll make the nav window more thin, the columns don't go one under the other to adjust in the new width.
-Thanks!!
+# curriculum lattes
+My experience on web dev front end written with that's technology!
+Looking for a good way to implement on the web page all my jobs, with the possibility of good transitions between the infos and the inputs where the links to another jobs are!
